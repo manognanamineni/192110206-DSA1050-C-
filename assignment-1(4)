@@ -1,0 +1,25 @@
+/* QUESTION
+Find errors., if any in the following C++ statements
+ (a) .couit.<< "x=" x;
+b. 	m= 5;// n=10’//s= m
+c. cin>>x;>>y;
+d. cout<<\n “Name”<<name;
+e. cout<<”enter the value”>>x;
+f.  /* addition */ z=x+y;
+*/
+
+\\ANSWER
+
+(a)cout<<"x="<<x;
+
+(b)m=5;
+n=10;
+s=m;
+
+(c)cin>>x>>y;
+
+(d)cout<<"\n Name"<<name;
+
+(e)cout<<"enter the value"<<x;
+
+(f)NO ERROR
